@@ -1,4 +1,6 @@
 --upgrade pip setuptools
+sphinx
+sphinx_rtd_theme
 pyDOE
 xlsxwriter
 xlrd
