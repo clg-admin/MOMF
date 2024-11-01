@@ -31,11 +31,11 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   Installation <_sections/install>
-   Getting Started <_sections/gettingstart>
+   Installation <install>
+   Getting Started <gettingstart>
    
-   License <_sections/license>
-   Authors <_sections/authors>
+   License <license>
+   Authors <authors>
 
 
 
