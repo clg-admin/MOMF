@@ -1,7 +1,7 @@
 Getting Started
 ==================
-Firstly, it is important take in count the workflow could
-you see in the Figure `Structure Tier 1`. This workflow
+Firstly, it is important to consider the workflow shown
+in the Figure `Structure Tier 1`. This workflow
 indicates us which are the files important to make
 execution of each step, and to see all workflow and
 take a better comprenhension.

@@ -7,7 +7,7 @@ Welcome to **MOMF** Documentation!
 Is energy system modeling tools that identify features of a robust
 energy policy: a policy that performs well relative to alternatives. The
 tools are based on the Open Souce Modeling System (OSeMOSYS), are named
-the **M**\ ultipurpose **O**\ Se **M**\ OSYS-based **F**\ ramework (MOMF).
+the **M**\ ultipurpose **O**\ SeMOSYS-based **M**\ odeling **F**\ ramework (MOMF).
 
 
 The MOMF can support energy decarbonization planning exercises, and it
